@@ -1,2 +1,2 @@
 # DioFlutter
-Colcoar os projetos realizados no bootcamp dio
+Colocar os projetos realizados no bootcamp dio
